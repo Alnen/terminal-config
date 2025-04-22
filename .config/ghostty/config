@@ -1,0 +1,11 @@
+shell-integration = zsh
+
+theme = catppuccin-frappe
+font-family = "MesloLGM Nerd Font"
+font-size = 18
+background-opacity = 1
+
+macos-option-as-alt = left
+
+keybind = alt+left=unbind
+keybind = alt+right=unbind
